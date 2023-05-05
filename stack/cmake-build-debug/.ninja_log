@@ -1,0 +1,16 @@
+# ninja log v5
+26	575	1683121124668585973	CMakeFiles/stack.dir/StackType.cpp.o	ebb2035dcd05cae6
+13	255	1683122278284231310	CMakeFiles/stack.dir/StackTemplate.cpp.o	8984ec84457514d7
+0	50	1683122424604144121	build.ninja	5fc78eeffa53e356
+667	717	1682673747698538396	stack	a5cd0af8c0618fae
+0	659	1682673747637702244	CMakeFiles/stack.dir/main.cpp.o	f958c6ffade045fc
+1	667	1682673747646098040	CMakeFiles/stack.dir/ItemType.cpp.o	1955716563e65df5
+19	251	1683122436992892946	CMakeFiles/stack.dir/StackTemplate.cpp.o	8984ec84457514d7
+10	250	1683122478518788293	CMakeFiles/stack.dir/StackTemplate.cpp.o	8984ec84457514d7
+20	292	1683122515937207404	CMakeFiles/stack.dir/StackTemplate.cpp.o	8984ec84457514d7
+19	602	1683122516248270019	CMakeFiles/stack.dir/main.cpp.o	f958c6ffade045fc
+13	551	1683122536057817683	CMakeFiles/stack.dir/main.cpp.o	f958c6ffade045fc
+8	256	1683122551009584518	CMakeFiles/stack.dir/main.cpp.o	f958c6ffade045fc
+8	230	1683122882637644318	CMakeFiles/stack.dir/StackTemplate.cpp.o	8984ec84457514d7
+8	543	1683122901790632161	CMakeFiles/stack.dir/main.cpp.o	f958c6ffade045fc
+543	593	1683122901843789404	stack	febe905ea53a87fd
